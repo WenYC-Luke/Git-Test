@@ -2,3 +2,5 @@
 #02. Push 到 GitHub 
 
 #03. 建立Branch_01分支
+
+#04. 本機修改，準備push到GitHub，由於遠端已經有修改並Commit，因此會發生版本衝突
